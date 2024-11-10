@@ -4,10 +4,6 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 
 ## 🛠️ Languages & Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-- **Python Proficiency:** Skilled in:
-  - Web development
-  - Data analysis
-  - Automation
 
 ## 🌱 What I'm Currently Learning
 I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
