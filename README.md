@@ -19,7 +19,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=radical)
 
 ## 🫱🏼‍🫲🏼 Let's Connect!
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/edwingeorgeshaji)
+[![LinkedIn](https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png)](https://www.linkedin.com/in/edwingeorgeshaji)
  <a href="https://www.instagram.com/edwin_george_shaji"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwingeorgeshajipadiyanickal@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
 
 Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!
