@@ -3,7 +3,7 @@
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
 
 ## 🐍 My GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=highcontrast)](https://git.io/streak-stats)
 
 
 ## 🛠️ Languages & Skills
