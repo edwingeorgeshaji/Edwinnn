@@ -25,6 +25,10 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwingeorgeshaji&layout=compact&theme=radical)
 
 
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=edwingeorgeshaji&theme=radical)
+
+
 ## 🤝 Let's Connect!
 - [email ](edwingeorgeshajipadiyanickal@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/edwingeorgeshaji)
