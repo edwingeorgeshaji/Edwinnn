@@ -4,8 +4,8 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 
 ## 🛠️ Languages & Skills
 - **Languages:** Python, C++
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
 - **Python Proficiency:** Skilled in:
   - Web development
