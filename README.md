@@ -1,4 +1,4 @@
-# Hi there, I'm Edwin! 👋
+# Hey yoo guys, I'm Edwin! 👋🏼
 
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
 
@@ -22,7 +22,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 ## 📈 GitHub Stats
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=radical)
 
-## 🤝 Let's Connect!
+## 🫱🏼‍🫲🏼 Let's Connect!
 <a href="https://www.linkedin.com/in/edwingeorgeshaji"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> <a href="https://www.instagram.com/edwin_george_shaji"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwingeorgeshajipadiyanickal@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
 
 Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!
