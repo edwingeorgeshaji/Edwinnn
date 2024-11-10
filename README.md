@@ -21,6 +21,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
 ## 📈 GitHub Stats
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=radical)
+
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwingeorgeshaji&layout=compact&theme=radical)
 
 
