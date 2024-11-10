@@ -3,7 +3,7 @@
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
 
 ## 🛠️ Languages & Skills
-- **Languages:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 - **Python Proficiency:** Skilled in:
   - Web development
   - Data analysis
