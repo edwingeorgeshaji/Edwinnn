@@ -33,4 +33,4 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!
 
 ---
-🌟 *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+🌟 *"Code is like humor. When you have to explain it, it’s bad."* — __Cory House__
