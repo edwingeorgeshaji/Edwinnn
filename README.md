@@ -23,7 +23,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect!
-- [email ](edwingeorgeshajipadiyanickal@gmail.com)
+- [email ](edwingeorgeshajipadiyanickal@gmail.com) <a href="mailto:your-edwingeorgeshajipadiyanickal@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
 - [LinkedIn](https://www.linkedin.com/in/edwingeorgeshaji)
 - [Instagram](https://www.instagram.com/edwin_george_shaji)
 
