@@ -2,12 +2,15 @@
 
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
 
+
 ## 📊 My Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwingeorgeshaji&theme=solarized-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+
 ## 🛠️ Languages & Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+
 
 ## 🌱 What I'm Currently Learning
 I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
