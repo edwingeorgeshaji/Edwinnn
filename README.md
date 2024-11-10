@@ -20,7 +20,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
 ## 🫱🏼‍🫲🏼 Let's Connect!
 <a href="https://www.linkedin.com/in/edwingeorgeshaji">
-  <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" alt="LinkedIn" width="40" height="40"/></a> <a href="https://www.instagram.com/edwin_george_shaji"><img src="https://static.vecteezy.com/system/resources/previews/018/930/415/non_2x/instagram-logo-instagram-icon-transparent-free-png.png" alt="Instagram" width="40" height="40"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwingeorgeshajipadiyanickal@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
+  <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" alt="LinkedIn" width="40" height="40"/></a> <a href="https://www.instagram.com/edwin_george_shaji"><img src="https://static.vecteezy.com/system/resources/previews/018/930/415/non_2x/instagram-logo-instagram-icon-transparent-free-png.png" alt="Instagram" width="50" height="50"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwingeorgeshajipadiyanickal@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
 
 Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!
 
