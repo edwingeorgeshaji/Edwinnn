@@ -3,7 +3,7 @@
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
 
 ## 🛠️ Languages & Skills
-- **Languages:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+- **Languages:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 - **Python Proficiency:** Skilled in:
   - Web development
   - Data analysis
@@ -21,13 +21,6 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
 ## 📈 GitHub Stats
 ![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwingeorgeshaji&show_icons=true&theme=radical)
-
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwingeorgeshaji&layout=compact&theme=radical)
-
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=edwingeorgeshaji&theme=radical)
-
 
 ## 🤝 Let's Connect!
 - [email ](edwingeorgeshajipadiyanickal@gmail.com)
