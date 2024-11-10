@@ -24,7 +24,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 
 ## 🤝 Let's Connect!
 - [Email ](edwingeorgeshajipadiyanickal@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/edwingeorgeshaji) <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+- <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
 - [Instagram](https://www.instagram.com/edwin_george_shaji)
 
 Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!
