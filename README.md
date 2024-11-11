@@ -9,17 +9,13 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 
 
 ## 🛠️ Languages & Skills
-<a href="https://www.python.org"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/><a href="https://isocpp.org/"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> <a href="https://www.android.com/"> <img align="center" src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/> <a href="https://www.microsoft.com/en-in/windows?r=1"> <img align="center" src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows" width="40" height="40"/>
+<a href="https://www.python.org"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/><a href="https://isocpp.org/"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> <a href="https://www.linux.org/"> <img align="center" src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/> <a href="https://www.android.com/"> <img align="center" src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/> <a href="https://www.microsoft.com/en-in/windows?r=1"> <img align="center" src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows" width="40" height="40"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-
-<a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&label=" alt="Windows"/></a> <a href="https://www.android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&label=" alt="Android"/></a>
 ![Python](https://badgen.net/badge/Python/Proficiency/3776AB?icon=python&color=blue)
 ![C++](https://badgen.net/badge/C++/Proficiency/00599C?icon=code&color=cyan)
+![Linux](https://badgen.net/badge/Linux/Proficiency/yellow?icon=terminal)
+![Android](https://badgen.net/badge/Android/Proficiency/green?icon=android)
+![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label)
 
 
 ## 🌱 What I'm Currently Learning
