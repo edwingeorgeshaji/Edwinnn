@@ -9,7 +9,7 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 
 
 ## 🛠️ Languages & Skills
-<a href="https://github.com/edwingeorgeshaji"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <a href="https://github.com/edwingeorgeshaji"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<a href="https://github.com/edwingeorgeshaji"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <a href="https://github.com/edwingeorgeshaji"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
 
 ## 🌱 What I'm Currently Learning
