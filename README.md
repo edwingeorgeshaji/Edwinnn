@@ -17,6 +17,11 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
+<a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&label=" alt="Windows"/></a> <a href="https://www.android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&label=" alt="Android"/></a>
+![Python](https://badgen.net/badge/Python/Proficiency/3776AB?icon=python&color=blue)
+![C++](https://badgen.net/badge/C++/Proficiency/00599C?icon=code&color=cyan)
+
+
 ## 🌱 What I'm Currently Learning
 I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 - Advanced data science techniques
