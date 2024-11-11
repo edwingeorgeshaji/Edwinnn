@@ -13,9 +13,9 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 
 ![Python](https://badgen.net/badge/Python/Proficiency/3776AB?icon=python&color=blue)
 ![C++](https://badgen.net/badge/C++/Proficiency/00599C?icon=code&color=cyan)
-![Linux](https://badgen.net/badge/Linux/Proficiency/yellow?icon=terminal)
-![Android](https://badgen.net/badge/Android/Proficiency/green?icon=android)
-![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label)
+![Linux](https://badgen.net/badge/icon/Proficiency/yellow?icon=terminal)
+![Android](https://badgen.net/badge/icon/Proficiency/green?icon=android)
+![Windows](https://badgen.net/badge/icon/Proficiency/Windows?icon=windows&label)
 
 
 ## 🌱 What I'm Currently Learning
