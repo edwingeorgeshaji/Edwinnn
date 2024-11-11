@@ -1,10 +1,10 @@
-# Hey yoo guys, Edwin here! 👋🏼
+# Yoo... the name is Edwin! 👋🏼
 
 I'm a **Computer Science Engineering student** and a passionate developer who loves exploring new coding languages and tackling real-world problems through code. I enjoy building efficient applications and working with data to derive insights and create solutions.
 
 
 ## 📊 My Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwingeorgeshaji&theme=solarized-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwingeorgeshaji&theme=cotton-candy)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
