@@ -9,10 +9,8 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 
 
 ## 🛠️ Languages & Skills
-<a href="https://www.python.org"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/><a href="https://isocpp.org/"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+<a href="https://www.python.org"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/><a href="https://isocpp.org/"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> <a href="https://www.android.com/"> <img align="center" src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/> <a href="https://www.microsoft.com/en-in/windows?r=1"> <img align="center" src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows" width="40" height="40"/>
 
-<a href="https://www.microsoft.com/en-in/windows?r=1"> <img align="center" src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows" width="40" height="40"/>
-<a href="https://www.android.com/"> <img align="center" src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/>
 
 ## 🌱 What I'm Currently Learning
 I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
