@@ -17,7 +17,6 @@ I'm a **Computer Science Engineering student** and a passionate developer who lo
 ![Android](https://badgen.net/badge/icon/Proficiency/green?icon=android)
 ![Windows](https://badgen.net/badge/icon/Proficiency/Windows?icon=windows&label)
 
-
 ## 🌱 What I'm Currently Learning
 I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 - Advanced data science techniques
