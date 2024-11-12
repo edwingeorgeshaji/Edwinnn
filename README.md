@@ -38,9 +38,7 @@ I'm always eager to learn and expand my toolkit! Right now, I'm exploring:
 <a href="https://www.linkedin.com/in/edwingeorgeshaji">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> <a href="https://www.instagram.com/edwin_george_shaji"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=edwingeorgeshajipadiyanickal@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
 
-Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech!
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=ffff33&style=flat" alt="Edwin George Shaji" /> </p>
+Feel free to reach out, whether it’s for collaboration, brainstorming, or just a chat about the latest in tech! <p align="right"> <img src="https://komarev.com/ghpvc/?username=edwingeorgeshaji&label=Profile%20views&color=ffff33&style=flat" alt="Edwin George Shaji" /> </p>
 
 
 ---
