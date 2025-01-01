@@ -42,4 +42,6 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 
 
 ---
-🌟 <EM>"Code is like humor. When you have to explain it, it’s bad."<EM> — Cory House
+🌟 <p><EM><b>A Gentle Reminder:</b></em></p>
+<p><em>A failure doesn’t define your worth. Sometimes, people grow in different directions, and that’s okay. What matters most is how you rebuild yourself and find happiness within..."</EM> </p>
+<strong><p>Be happy with who you are brother...</p><strong>
