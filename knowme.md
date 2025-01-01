@@ -1,1 +1,2 @@
-Life's good.
+hahahaaa...
+i'm a good person.
