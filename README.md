@@ -42,6 +42,6 @@ Feel free to reach out, whether it’s for collaboration, brainstorming, or just
 
 
 ---
-🌟 <p><EM><b>A Gentle Reminder:</b></em></p>
+🌟 <p align="center"><EM><b>A Gentle Reminder</b></em></p>
 <p><em>A failure doesn’t define your worth. Sometimes, people grow in different directions, and that’s okay. What matters most is how you rebuild yourself and find happiness within..."</EM> </p>
-<strong><p>Be happy with who you are brother...</p><strong>
+<EM><strong><p align="center">Be happy with who you are brother...</p><strong></em>
