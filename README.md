@@ -4,7 +4,6 @@
 <EM><p align="center">Just be happy with who you are my friend...</p></em>
 <EM><strong><p align="center">Have a good day!</p><strong></em>
   
-## Author
 
 <div align="center">
   
