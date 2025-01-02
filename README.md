@@ -5,6 +5,8 @@
 <EM><strong><p align="center">Have a good day!</p><strong></em>
   
 ## Author
+
 <div align="center"><strong>[R.E.C](https://github.com/edwingeorgeshaji)</strong>
 </div>
+
 ---
