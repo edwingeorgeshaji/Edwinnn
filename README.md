@@ -1,4 +1,5 @@
 ---
+## A Gentle Reminder
 <p align="center"><EM><b>A Gentle Reminder</b></em></p>
 <p><em>Sometimes, people grow in different directions, and that’s okay. What matters most is how you rebuild yourself and find happiness within.</EM> </p>
 <EM><p align="center">Just be happy with who you are my friend...</p></em>
@@ -6,6 +7,6 @@
 
 ## Author
 
-Created by <strong>[R.E.C](https://github.com/edwingeorgeshaji)</strong>  (ifykyk). Feel free to reach out for any questions or suggestions tto!
+<strong>[R.E.C](https://github.com/edwingeorgeshaji)</strong>
 
 ---
