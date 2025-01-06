@@ -7,8 +7,11 @@
 
 <div align="center">
   
-  <strong>[R.E.C](https://github.com/edwingeorgeshaji)</strong>
+/strong>
   
 </div>
 
 ---
+
+
+![AI ML DL](https://github.com/user-attachments/assets/1fa21968-0da1-4517-aaf0-c71ba3099997)
